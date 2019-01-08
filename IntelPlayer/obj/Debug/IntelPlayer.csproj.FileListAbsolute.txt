@@ -1,0 +1,96 @@
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe.config
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.pdb
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csprojResolveAssemblyReference.cache
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.g.cs
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\App.g.cs
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.cache
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.baml
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.g.resources
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.Properties.Resources.resources
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.GenerateResource.Cache
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.exe
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.pdb
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\Interop.WMPLib.dll
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\AxInterop.WMPLib.dll
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\Interop.WMPLib.dll
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\AxInterop.WMPLib.dll
+d:\mes documents\visual studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.ResolveComReference.cache
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe.config
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.ResolveComReference.cache
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.exe
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.pdb
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.baml
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.g.cs
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\playlist.g.cs
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\App.g.cs
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.cache
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.lref
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.pdb
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\playlist.baml
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.g.resources
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.Properties.Resources.resources
+C:\Users\Arkedrille\Documents\Visual Studio 2015\Projects\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.GenerateResource.Cache
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe.config
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.pdb
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.ResolveComReference.cache
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.baml
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.g.cs
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\playlist.g.cs
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\App.g.cs
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.cache
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.lref
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\playlist.baml
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.g.resources
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.Properties.Resources.resources
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.GenerateResource.Cache
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.exe
+D:\DOCUMENTS\Developpement\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.pdb
+L:\projets\C#\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe.config
+L:\projets\C#\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe
+L:\projets\C#\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.pdb
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csprojAssemblyReference.cache
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.ResolveComReference.cache
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.baml
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.g.cs
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\playlist.g.cs
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\App.g.cs
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.cache
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.lref
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\playlist.baml
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.g.resources
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.Properties.Resources.resources
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.GenerateResource.cache
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.CoreCompileInputs.cache
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.exe
+L:\projets\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.pdb
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe.config
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.exe
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\bin\Debug\IntelPlayer.pdb
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\bin\Debug\Interop.WMPLib.dll
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csprojAssemblyReference.cache
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\Interop.WMPLib.dll
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.ResolveComReference.cache
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.baml
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\MainWindow.g.cs
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\playlist.g.cs
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\App.g.cs
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.cache
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer_MarkupCompile.lref
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\playlist.baml
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.g.resources
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.Properties.Resources.resources
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.GenerateResource.cache
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.csproj.CoreCompileInputs.cache
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.exe
+D:\PROJETS\Développements\C#\IntelPlayer\IntelPlayer\obj\Debug\IntelPlayer.pdb

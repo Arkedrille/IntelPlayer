@@ -1,0 +1,16 @@
+﻿<Window x:Name="IntelPlayer" x:Class="WpfTutorialSamples.Audio_and_Video.MediaPlayerAudioControlSample"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="IntelPlayer" Height="519.642" Width="899.409" Foreground="#FF171010" Background="#FF726767" BorderBrush="#FF171010" OpacityMask="Black">
+    <StackPanel Margin="10" RenderTransformOrigin="0.503,0.508" AllowDrop="True" HorizontalAlignment="Center">
+        <Label x:Name="lblStatus" HorizontalContentAlignment="Center" Margin="5" Height="36" Content="Preparation" />
+ 
+            <Button x:Name="btnPlay" Click="btnPlay_Click" Content="Jouer" Width="67"/>
+            <Button x:Name="btnPause" Margin="5,0" Click="btnPause_Click" Content="Pause" Width="66"/>
+            <Button x:Name="btnStop" Click="btnStop_Click" Content="Stop" Width="65"/>
+        <Button x:Name="btnOpen" Margin ="25,0,5,0" Click="btnOpen_Click" Content="Ouvrir un fichier .mp3" Width="127" />
+        <Label x:Name="Label1" Content="Liste de morceaux" Margin="22,0,736,0"/>
+        <ListBox x:Name="listBox" Height="244" Margin="0,0,518,0" HorizontalAlignment="Right" Width="331" Background="#FFDACCCC" AllowDrop="True" BorderBrush="Black" SelectionChanged="listBox_SelectionChanged"/>
+        <Button x:Name="button" Content="Créer une playlist" Width="333" HorizontalAlignment="Left" Margin="15,10,0,0" Click="button_Click"/>
+    </StackPanel>
+</Window>

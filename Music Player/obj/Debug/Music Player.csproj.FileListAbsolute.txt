@@ -1,0 +1,72 @@
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\bin\Debug\Music Player.exe
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\bin\Debug\Music Player.pdb
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\bin\Debug\taglib-sharp.dll
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\obj\Debug\Music_Player.interfaceForm.resources
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\obj\Debug\Music Player.exe
+C:\Users\Arkedrille\Source\Repos\MP3-Player\Music Player\obj\Debug\Music Player.pdb
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\bin\Debug\Music Player.exe.config
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\bin\Debug\Music Player.exe
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\bin\Debug\Music Player.pdb
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\bin\Debug\MySql.Data.DLL
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\bin\Debug\taglib-sharp.dll
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\obj\Debug\Music_Player.connexion.resources
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\obj\Debug\Music_Player.interfaceForm.resources
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\obj\Debug\Music Player.exe
+C:\Users\Arkedrille\Documents\C# - ASP .NET\Projets\IntelPlayer\Music Player\obj\Debug\Music Player.pdb
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\obj\Debug\Music Player.csprojResolveAssemblyReference.cache
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\obj\Debug\Music_Player.connexion.resources
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\obj\Debug\Music_Player.interfaceForm.resources
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\obj\Debug\Music Player.csproj.GenerateResource.Cache
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\obj\Debug\Music Player.exe
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\obj\Debug\Music Player.pdb
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\bin\Debug\Music Player.exe.config
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\bin\Debug\Music Player.exe
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\bin\Debug\Music Player.pdb
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\bin\Debug\MySql.Data.DLL
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\bin\Debug\taglib-sharp.dll
+D:\DOCUMENTS\Developpement\IntelPlayer\Music Player\bin\Debug\policy.2.0.taglib-sharp.config
+L:\projets\C#\IntelPlayer\Music Player\bin\Debug\Music Player.exe.config
+L:\projets\C#\IntelPlayer\Music Player\bin\Debug\Music Player.exe
+L:\projets\C#\IntelPlayer\Music Player\bin\Debug\Music Player.pdb
+L:\projets\C#\IntelPlayer\Music Player\bin\Debug\MySql.Data.DLL
+L:\projets\C#\IntelPlayer\Music Player\bin\Debug\policy.2.0.taglib-sharp.dll
+L:\projets\C#\IntelPlayer\Music Player\bin\Debug\taglib-sharp.dll
+L:\projets\C#\IntelPlayer\Music Player\bin\Debug\policy.2.0.taglib-sharp.config
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music_Player.connexion.resources
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music_Player.interfaceForm.resources
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music Player.csproj.CopyComplete
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music Player.exe
+L:\projets\C#\IntelPlayer\Music Player\obj\Debug\Music Player.pdb
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\bin\Debug\Music Player.exe.config
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\bin\Debug\Music Player.exe
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\bin\Debug\Music Player.pdb
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\bin\Debug\MySql.Data.DLL
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\bin\Debug\policy.2.0.taglib-sharp.dll
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\bin\Debug\taglib-sharp.dll
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\bin\Debug\policy.2.0.taglib-sharp.config
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music Player.csprojAssemblyReference.cache
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music_Player.connexion.resources
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music_Player.interfaceForm.resources
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music_Player.Properties.Resources.resources
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music Player.csproj.GenerateResource.cache
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music Player.csproj.CoreCompileInputs.cache
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music Player.csproj.CopyComplete
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music Player.exe
+D:\PROJETS\Développements\C#\IntelPlayer\Music Player\obj\Debug\Music Player.pdb
